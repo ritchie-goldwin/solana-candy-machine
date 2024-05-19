@@ -1,0 +1,20 @@
+{
+  "name": "Panda 4",
+  "description": "Massive purple panda!",
+  "image": "4.png",
+  "symbol": "PANDA",
+  "attributes": [
+    {
+      "trait_type": "arms",
+      "value": "nice"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "4.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

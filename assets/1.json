@@ -1,0 +1,20 @@
+{
+  "name": "Panda 1",
+  "description": "Massive blue panda!",
+  "image": "1.png",
+  "symbol": "PANDA",
+  "attributes": [
+    {
+      "trait_type": "arms",
+      "value": "short"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "number": 6,
+  "symbol": "PANDA",
+  "sellerFeeBasisPoints": 500,
+  "isMutable": true,
+  "isSequential": false,
+  "ruleSet": null,
+  "creators": [
+    {
+      "address": "H32a4PAHWhVD1jTSDbzy7hUqGSQVnQ5N6LtdYw2Gh8Zn",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "bundlr",
+  "awsS3Bucket": null,
+  "retainAuthority": true,
+  "awsConfig": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": {
+    "default": {
+      "solPayment": {
+        "value": 0.01,
+        "destination": "H32a4PAHWhVD1jTSDbzy7hUqGSQVnQ5N6LtdYw2Gh8Zn"
+      },
+      "startDate": {
+        "date": "2024-05-16T00:00:00Z"
+      }
+    }
+  }
+}

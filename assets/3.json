@@ -1,0 +1,20 @@
+{
+  "name": "Panda 3",
+  "description": "Massive green panda!",
+  "image": "3.png",
+  "symbol": "PANDA",
+  "attributes": [
+    {
+      "trait_type": "arms",
+      "value": "quite long"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "3.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
